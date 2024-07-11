@@ -24,4 +24,3 @@ This project is a web application that fetches and displays recent earthquake da
 4. Open your browser and navigate to http://localhost:8080 to view the application.
 
 
-![Ekran Kaydı 2024-07-11 19 53 28](https://github.com/simaybaki/recent_earthquakes/assets/99593716/cd77cda4-82ea-4024-80b9-7ce151e8398c)
