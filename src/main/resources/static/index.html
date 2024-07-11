@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earthquake Data</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Earthquake Data</h1>
+    <form id="earthquakeForm">
+        <label for="country">Country:</label>
+        <input type="text" id="country" name="country" required>
+        <label for="days">Days:</label>
+        <input type="number" id="days" name="days" required>
+        <button type="submit">Get Earthquakes</button>
+    </form>
+    <ol id="results" class="alternating-colors"></ol>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
