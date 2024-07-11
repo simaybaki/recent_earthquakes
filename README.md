@@ -23,5 +23,6 @@ This project is a web application that fetches and displays recent earthquake da
 3. Run the application
 4. Open your browser and navigate to http://localhost:8080 to view the application.
 
+## Demo
 
 ![Adsız tasarım](https://github.com/simaybaki/recent_earthquakes/assets/99593716/2ec52e75-1339-44c7-88ce-4d5ef82b03fd)
